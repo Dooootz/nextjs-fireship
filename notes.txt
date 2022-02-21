@@ -4,3 +4,11 @@ NextJS in 100 seconds
 CSS:
     >folders that end in .module.css allow you to define classes that   
     only apply to a specific route OR component
+
+    To use styles from a cerain module - Import css styles from ../styles/Home.module.css 
+    Then reference your styles in JSX as if your styles was a JavaScript object
+
+
+PAGES:
+    >
+
