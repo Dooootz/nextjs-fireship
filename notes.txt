@@ -1,0 +1,6 @@
+// NOTES
+NextJS in 100 seconds 
+
+CSS:
+    >folders that end in .module.css allow you to define classes that   
+    only apply to a specific route OR component
