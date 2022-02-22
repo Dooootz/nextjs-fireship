@@ -1,4 +1,5 @@
 import { useRouter } from 'next/router'
+import Link from 'next/link'
 import Head from 'next/head'
 import styles from '../../styles/Home.module.css'
 
@@ -19,6 +20,7 @@ export default function Car({ car }) {
 
                 <img src={car.image} width="300px" />
 
+                <Link href="/cars"><a>Back to cars</a></Link>
             </main>
         </div>
     )
