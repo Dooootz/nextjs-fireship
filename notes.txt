@@ -10,5 +10,6 @@ CSS:
 
 
 PAGES:
-    >
+    >routes automatically created using the folder & files structure 
+    >index.js = default route / page 
 
